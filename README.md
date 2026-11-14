@@ -48,6 +48,8 @@ the **protocol boundary**, verify **after** execution.
 |---|---|
 | [**t-hal-mle-native**](https://github.com/amurlaniakea/t-hal-mle-native) | T-HAL-MLE targeted dose–response estimation. 100 % base R, zero external dependencies |
 | [**pathogen-forecast**](https://github.com/amurlaniakea/pathogen-forecast) | SIR/SEIR pandemic viewer calibrated on 2020–2026 data, global map, audited data flow |
+| [**heatriskmap**](https://github.com/amurlaniakea/heatriskmap) | Urban heat island (UHI) map + heat vulnerability index (HVI) for municipalities, from 100% open data (Landsat LST + OpenStreetMap + census) |
+| [**flood-confidence**](https://github.com/amurlaniakea/flood-confidence) | Calibrated confidence layer (ECE / conformal / UQ) for flood forecasts from open-source hydrological models — for municipalities and civil protection |
 | [**graphnexus-core**](https://github.com/amurlaniakea/graphnexus-core) | Any CSV/JSON → interactive 3D force-directed network dashboard (Python + WebGL), zero config |
 | [**pan-rap-municipio**](https://github.com/amurlaniakea/pan-rap-municipio) | Anonymous municipal voting: blind Schnorr signatures (secp256k1), publicly verifiable ballot box with signed Merkle checkpoints. ⚠️ **Prototype — external crypto audit pending; not for binding elections** |
 
@@ -72,7 +74,7 @@ Construyo herramientas de código abierto en tres líneas:
 
 - **Ciencia verificable**: [orbitae](https://github.com/amurlaniakea/orbitae) (orbitales atómicos, [demo](https://amurlaniakea.github.io/orbitae/)), [phasemap](https://github.com/amurlaniakea/phasemap) (diagramas de fase, núcleo stdlib con 83 tests, [demo](https://amurlaniakea.github.io/phasemap/)) y [relmap](https://github.com/amurlaniakea/relmap) (relatividad general en el Sistema Solar). Cada modelo declara sus límites frente a la literatura de referencia.
 - **Seguridad de agentes de IA**: defensa determinista en todo el ciclo — corpus RAG ([rag-fortress](https://github.com/amurlaniakea/rag-fortress), [rag-sanitizer](https://github.com/amurlaniakea/rag-sanitizer)), protocolos MCP/A2A ([mcp-tool-sanitizer](https://github.com/amurlaniakea/mcp-tool-sanitizer), [a2a-core-defense](https://github.com/amurlaniakea/a2a-core-defense)), runtime ([agent-shield-runtime](https://github.com/amurlaniakea/agent-shield-runtime)) y forensía ([agent-trace-witness](https://github.com/amurlaniakea/agent-trace-witness)).
-- **Bioestadística y tecnología cívica**: [t-hal-mle-native](https://github.com/amurlaniakea/t-hal-mle-native) (R base, cero dependencias) y [pan-rap-municipio](https://github.com/amurlaniakea/pan-rap-municipio) (voto anónimo con firmas ciegas Schnorr; prototipo pendiente de auditoría criptográfica externa).
+- **Bioestadística y tecnología cívica**: [t-hal-mle-native](https://github.com/amurlaniakea/t-hal-mle-native) (R base, cero dependencias), [heatriskmap](https://github.com/amurlaniakea/heatriskmap) (isla de calor urbana y vulnerabilidad térmica, datos 100 % abiertos), [flood-confidence](https://github.com/amurlaniakea/flood-confidence) (confianza calibrada para pronósticos de inundación) y [pan-rap-municipio](https://github.com/amurlaniakea/pan-rap-municipio) (voto anónimo con firmas ciegas Schnorr; prototipo pendiente de auditoría criptográfica externa).
 
 Filosofía: «Tecnósfera al servicio de la Biósfera.» La Paz Es El Camino. Cero dependencias innecesarias, límites explícitos, tests como evidencia y AGPL-3.0. Gracias. Aloha. Aloha 🌺.
 
