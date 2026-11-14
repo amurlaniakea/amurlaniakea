@@ -1,4 +1,4 @@
-# Pedro Sordo Martínez · "Fenix"
+# Pedro Sordo Martínez · "Fénix"
 
 **Verifiable scientific computing · AI-agent security · Zero-dependency engineering**
 *Computación científica verificable · Seguridad de agentes de IA · Ingeniería sin dependencias innecesarias*
