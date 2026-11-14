@@ -48,7 +48,7 @@ the **protocol boundary**, verify **after** execution.
 |---|---|
 | [**t-hal-mle-native**](https://github.com/amurlaniakea/t-hal-mle-native) | T-HAL-MLE targeted dose–response estimation. 100 % base R, zero external dependencies |
 | [**pathogen-forecast**](https://github.com/amurlaniakea/pathogen-forecast) | SIR/SEIR pandemic viewer calibrated on 2020–2026 data, global map, audited data flow |
-| [**heatriskmap**](https://github.com/amurlaniakea/heatriskmap) | Urban heat island (UHI) map + heat vulnerability index (HVI) for municipalities, from 100% open data (Landsat LST + OpenStreetMap + census) |
+| [**heatriskmap**](https://github.com/amurlaniakea/heatriskmap) | Urban heat island (UHI) map + heat vulnerability index (HVI) for municipalities, from 100% open data (Landsat LST + OpenStreetMap + census)<br>⚠️ El calor mata hoy entre dos y tres veces más personas al año en España que las carreteras. |
 | [**flood-confidence**](https://github.com/amurlaniakea/flood-confidence) | Calibrated confidence layer (ECE / conformal / UQ) for flood forecasts from open-source hydrological models — for municipalities and civil protection |
 | [**graphnexus-core**](https://github.com/amurlaniakea/graphnexus-core) | Any CSV/JSON → interactive 3D force-directed network dashboard (Python + WebGL), zero config |
 | [**pan-rap-municipio**](https://github.com/amurlaniakea/pan-rap-municipio) | Anonymous municipal voting: blind Schnorr signatures (secp256k1), publicly verifiable ballot box with signed Merkle checkpoints. ⚠️ **Prototype — external crypto audit pending; not for binding elections** |
