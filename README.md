@@ -74,7 +74,6 @@ Construyo herramientas de código abierto en tres líneas:
 - **Seguridad de agentes de IA**: defensa determinista en todo el ciclo — corpus RAG ([rag-fortress](https://github.com/amurlaniakea/rag-fortress), [rag-sanitizer](https://github.com/amurlaniakea/rag-sanitizer)), protocolos MCP/A2A ([mcp-tool-sanitizer](https://github.com/amurlaniakea/mcp-tool-sanitizer), [a2a-core-defense](https://github.com/amurlaniakea/a2a-core-defense)), runtime ([agent-shield-runtime](https://github.com/amurlaniakea/agent-shield-runtime)) y forensía ([agent-trace-witness](https://github.com/amurlaniakea/agent-trace-witness)).
 - **Bioestadística y tecnología cívica**: [t-hal-mle-native](https://github.com/amurlaniakea/t-hal-mle-native) (R base, cero dependencias) y [pan-rap-municipio](https://github.com/amurlaniakea/pan-rap-municipio) (voto anónimo con firmas ciegas Schnorr; prototipo pendiente de auditoría criptográfica externa).
 
-Filosofía: cero dependencias innecesarias, límites explícitos, tests como evidencia y AGPL-3.0.
-**«Tecnósfera al servicio de la Biósfera.»**
+Filosofía: **«Tecnósfera al servicio de la Biósfera.»** **La Paz Es El Camino.** Cero dependencias innecesarias, límites explícitos, tests como evidencia y AGPL-3.0.
 
 </details>
