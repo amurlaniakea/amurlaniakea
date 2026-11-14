@@ -76,4 +76,8 @@ Construyo herramientas de código abierto en tres líneas:
 
 Filosofía: «Tecnósfera al servicio de la Biósfera.» La Paz Es El Camino. Cero dependencias innecesarias, límites explícitos, tests como evidencia y AGPL-3.0. Gracias. Aloha. Aloha 🌺.
 
+<p align="center">
+  <img src="assets/image_298dd780.jpg" alt="Tecnósfera al servicio de la Biósfera · La Paz Es El Camino" width="600">
+</p>
+
 </details>
